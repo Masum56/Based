@@ -1,2 +1,2 @@
-# Based
-Based on Base
+notifications on ⚠️
+More chains are coming
